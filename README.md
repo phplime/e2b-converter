@@ -1,5 +1,5 @@
 # e2b-converter
-English to Bangla or Others converter using php
+English to Bangla or Others converter using php function
 <pre>
 <code language="php">
 if(!function_exists('custom_date')){
